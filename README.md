@@ -10,7 +10,7 @@ For the porpuse of bachelor's thesis, we created an app for visualising running 
 1. Clone repository and go into project file.
 
 ```
-git clone https://github.com/zStupan/bfo-experiments
+git clone https://github.com/mdezelak/VRT_app.git
 cd VRT_app
 ```
 
