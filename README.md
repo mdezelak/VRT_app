@@ -2,7 +2,7 @@
 
 # Description
 
-For the purpose of bachelor's thesis, we created an app for visualising running sport activity.
+For the purpose of bachelor's thesis, we created an app for visualising running sport activity. It's Vue based applications able to parse TCX format files and visualize its content based on technique described in [TO-DO: url to thesis]
 
 # Requirements
 
