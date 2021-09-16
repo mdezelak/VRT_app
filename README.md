@@ -6,7 +6,8 @@ For the purpose of bachelor's thesis, we created an app for visualising running 
 
 # Requirements
 
-For appliaction to work needs installed and running VRT_server 
+For appliaction to work needs installed and running VRT_server.
+Server is avalible here: https://github.com/mdezelak/VRT_server
 
 # Usage
 
