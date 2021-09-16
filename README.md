@@ -2,8 +2,11 @@
 
 # Description
 
-For the porpuse of bachelor's thesis, we created an app for visualising running sport activity.
+For the purpose of bachelor's thesis, we created an app for visualising running sport activity.
 
+# Requirements
+
+For appliaction to work needs installed and running VRT_server 
 
 # Usage
 
@@ -14,11 +17,14 @@ git clone https://github.com/mdezelak/VRT_app.git
 cd VRT_app
 ```
 
-2. Install dependencies and build 
+2. Install dependencies and run development server 
 
 ```
 npm install
-npm run build
+npm run serve
 ```
 
-3. Optional: 
+3. Optional: for future work and ease of adding new plugins to project we recommend installing vue cli
+```
+npm install -g @vue/cli
+```
